@@ -1,4 +1,8 @@
-# Calculadora Simples em React
+# Calculadora em React projeto DIO
+
+<p align="center">
+  <img src="https://i.ibb.co/0mQZ9Gj/Captura-de-tela-2024-03-17-151250.png" alt="Descrição da imagem">
+</p>
 
 Este é um projeto de uma calculadora simples desenvolvida em React. A calculadora permite aos usuários realizar operações básicas de adição, subtração, multiplicação e divisão, bem como inserir números decimais.
 
